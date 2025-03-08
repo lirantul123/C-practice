@@ -1,0 +1,14 @@
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/bin/Debug/net9.0/Exercise
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/bin/Debug/net9.0/Exercise.deps.json
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/bin/Debug/net9.0/Exercise.runtimeconfig.json
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/bin/Debug/net9.0/Exercise.dll
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/bin/Debug/net9.0/Exercise.pdb
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfoInputs.cache
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfo.cs
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.dll
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/refint/Exercise.dll
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.pdb
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/Exercise.genruntimeconfig.cache
+/Users/lirantulchinski/RiderProjects/Practice/Exercise/obj/Debug/net9.0/ref/Exercise.dll
